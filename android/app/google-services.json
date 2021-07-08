@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "233068774394",
+    "firebase_url": "https://cyberethics-awareness-default-rtdb.firebaseio.com",
+    "project_id": "cyberethics-awareness",
+    "storage_bucket": "cyberethics-awareness.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233068774394:android:1e828e5051c63119d39a43",
+        "android_client_info": {
+          "package_name": "com.acidlabs.cybered"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233068774394-kd75rj38eq3qpo1kcb5sfl22n3p3kpj4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC1eAnEyfdQB0JGy4FYkR4_DZxCBovTKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233068774394-kd75rj38eq3qpo1kcb5sfl22n3p3kpj4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
